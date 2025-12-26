@@ -1,0 +1,1 @@
+Feature 2 will now be pushed to the new_branch and then a pull request will be opened to merge it to the master branch
